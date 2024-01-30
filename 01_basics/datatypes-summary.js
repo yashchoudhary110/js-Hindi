@@ -13,3 +13,7 @@ console.log(id===anothrid);
 
 // Refernce (non primitve)
 // Array, objects, functions, 
+
+// stack (primitive), heap(non-primitive)
+
+let my = "yash"
